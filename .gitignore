@@ -1,0 +1,29 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and platform files
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.tmp
+*.user
+*.userprefs
+
+# Build and packaging output
+Build/Receipts/
+Build/Windows/FileOpenOrder/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
